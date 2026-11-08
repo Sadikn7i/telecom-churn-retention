@@ -1,4 +1,3 @@
-# Telecom Churn Prediction and Retention Strategy
 
 Predicting which customers of a telecom operator will leave, and turning those predictions into a targeted retention campaign with a measurable return.
 
